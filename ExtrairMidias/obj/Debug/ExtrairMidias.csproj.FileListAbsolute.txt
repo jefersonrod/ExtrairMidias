@@ -1,0 +1,9 @@
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\bin\Debug\ExtrairMidias.exe.config
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\bin\Debug\ExtrairMidias.exe
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\bin\Debug\ExtrairMidias.pdb
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\obj\Debug\ExtrairMidias.csprojResolveAssemblyReference.cache
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\obj\Debug\ExtrairMidias.Form1.resources
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\obj\Debug\ExtrairMidias.Properties.Resources.resources
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\obj\Debug\ExtrairMidias.csproj.GenerateResource.Cache
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\obj\Debug\ExtrairMidias.exe
+C:\Users\Jeferson\OneDrive\src\Visual Studio 2015\Projects\ExtrairMidias\ExtrairMidias\obj\Debug\ExtrairMidias.pdb
